@@ -104,7 +104,6 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
         "linkline-user-guide": "Linkline User Guide",
         "quick-start": "Quick start",
