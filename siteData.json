@@ -117,6 +117,8 @@
         "copying-a-person-s-address-copyaddr": "Copying a person's address: copyaddr",
         "viewing-client-details-view": "Viewing client details: view",
         "filtering-clients-by-tags-filter": "Filtering clients by tags: filter",
+        "renaming-a-tag-renametag": "Renaming a tag: renametag",
+        "deleting-a-tag-deletetag": "Deleting a tag: deletetag",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
