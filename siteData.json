@@ -38,7 +38,6 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
         "linkline-developer-guide": "LinkLine Developer Guide",
         "acknowledgements": "Acknowledgements",
@@ -112,7 +111,7 @@
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
-        "locating-persons-by-name-find": "Locating persons by name: find",
+        "locating-persons-by-personal-details-find": "Locating persons by personal details: find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "copying-a-person-s-address-copyaddr": "Copying a person's address: copyaddr",
         "viewing-client-details-view": "Viewing client details: view",
