@@ -114,6 +114,7 @@
         "locating-persons-by-personal-details-find": "Locating persons by personal details: find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "copying-a-person-s-address-copyaddr": "Copying a person's address: copyaddr",
+        "copying-a-client-s-edit-command-format-copyedit": "Copying a client's edit command format: copyedit",
         "viewing-client-details-view": "Viewing client details: view",
         "filtering-clients-by-tags-filter": "Filtering clients by tags: filter",
         "renaming-a-tag-renametag": "Renaming a tag: renametag",
