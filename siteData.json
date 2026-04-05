@@ -61,7 +61,12 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-client": "Deleting a client"
+        "copying-a-client-s-address": "Copying a client's address",
+        "copying-edit-command-format": "Copying edit command format",
+        "deleting-a-client": "Deleting a client",
+        "editing-a-client": "Editing a client",
+        "appendix-effort": "Appendix: Effort",
+        "difficulty-level-and-amp-challenges": "Difficulty Level &amp; Challenges"
       },
       "headingKeywords": {}
     },
