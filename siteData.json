@@ -57,6 +57,7 @@
         "chained-find-and-filtertag": "Chained find and filtertag",
         "global-tag-operations": "Global tag operations",
         "log-history-and-display-indices": "Log history and display indices",
+        "persistence-policy": "Persistence policy",
         "field-validation-constraints": "Field validation constraints",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
