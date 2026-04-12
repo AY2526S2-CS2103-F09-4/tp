@@ -74,7 +74,7 @@
         "working-with-service-logs": "Working with service logs",
         "global-tag-operations-2": "Global tag operations",
         "appendix-effort": "Appendix: Effort",
-        "difficulty-level-and-amp-challenges": "Difficulty Level &amp; Challenges",
+        "challenges": "Challenges",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
@@ -133,7 +133,6 @@
         "filtering-clients-by-tag-filtertag": "Filtering clients by tag: filtertag",
         "copying-a-client-s-address-copyaddr": "Copying a client's address: copyaddr",
         "copying-an-edit-command-template-copyedit": "Copying an edit command template: copyedit",
-        "tip-a-common-workflow-for-editing-is-copyedit-index-paste-the-copied-command-into-the-command-box-change-only-the-field-you-want-and-then-press-enter-head": "Tip: A common workflow for editing is copyedit INDEX, paste the copied command into the command box, change only\nthe field you want, and then press Enter.\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD",
         "adding-a-client-log-logadd": "Adding a client log: logadd",
         "deleting-a-client-log-logdelete": "Deleting a client log: logdelete",
         "renaming-a-tag-renametag": "Renaming a tag: renametag",
